@@ -1,0 +1,2 @@
+init a repo
+lets do this from the command line
